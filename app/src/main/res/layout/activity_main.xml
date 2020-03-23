@@ -61,7 +61,7 @@
         android:id="@+id/textView2"
         android:layout_width="69dp"
         android:layout_height="18dp"
-        android:text="Se1:Ep2"
+        android:text="Season1:Episódio2"
         android:textColor="@android:color/darker_gray"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
